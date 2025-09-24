@@ -50,7 +50,7 @@ All colors MUST be HSL.
 
     /* Wellness gradients */
     --gradient-wellness: linear-gradient(135deg, hsl(185 57% 47%), hsl(250 55% 70%));
-    --gradient-calm: linear-gradient(180deg, hsl(210 40% 98%), hsl(185 30% 94%));
+    --gradient-calm: linear-gradient(180deg, hsl(220 25% 95%), hsl(185 40% 88%));
     --gradient-mood: linear-gradient(45deg, hsl(142 71% 45%), hsl(185 57% 47%));
     
     /* Shadows for depth */
