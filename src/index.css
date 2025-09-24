@@ -9,7 +9,7 @@ All colors MUST be HSL.
 @layer base {
   :root {
     /* Wellness-focused color palette */
-    --background: 220 20% 98%;
+    --background: linear-gradient(135deg, hsl(220 25% 95%), hsl(185 40% 88%));
     --foreground: 215 25% 27%;
 
     --card: 0 0% 100%;
